@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vishal Raj
-- 👀 I’m interested in Data Analytics, Data Visualization
-- 🌱 I’m currently learning data Science and Engineering
-- 💞️ I’m looking to collaborate on Data Related field
-- 📫 How to reach me - You can reach me through mail - vishalraj.vr1997@gmail.com
+- 👀 I’m Experienced in Support systems/Product Support/Appliation Support
+- 🌱 I’m currently Self learning Python
+- 💞️ I’m fluent in Autosys, ITRS, ITIL Process, Service Now, Postman API, Jenkins, L1, L2
+- 📫 How to reach me - You can reach me through mail - vishalrajvijayanand@gmail.com
 - 😄 Pronouns: Call me Vishal.
 
 <!---
